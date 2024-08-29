@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/StudentEduTrackSystem/static/css/main.dd3c6c1d.css",
+    "main.js": "/StudentEduTrackSystem/static/js/main.03863726.js",
+    "static/media/logo.png": "/StudentEduTrackSystem/static/media/logo.0ad0ce96cea300962cf5.png",
+    "index.html": "/StudentEduTrackSystem/index.html",
+    "main.dd3c6c1d.css.map": "/StudentEduTrackSystem/static/css/main.dd3c6c1d.css.map",
+    "main.03863726.js.map": "/StudentEduTrackSystem/static/js/main.03863726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd3c6c1d.css",
+    "static/js/main.03863726.js"
+  ]
+}
