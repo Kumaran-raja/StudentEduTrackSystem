@@ -1,0 +1,50 @@
+.title{
+    background-color: blue;
+    /* width: 100%; */
+    margin: 0px;
+    padding: 20px;
+    color: white;
+
+}
+body::-webkit-scrollbar{
+    display: none;
+  }
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.main_images{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.count{
+    text-align: end;
+}
+.box{
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+.second_images{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    color: blue;
+    margin-right: auto;
+}
+.cent{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.second_images:hover{
+    transform: translateY(-10px);
+}
